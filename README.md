@@ -52,7 +52,28 @@ A simple and interactive web application designed to help students manage their 
 
 Study Session Planner  
 ├── index.html        # The main HTML file  
-├── styles.css        # Placeholder for CSS (Add styling if required)  
+├── styles.css        # For styling  
 ├── script.js         # The JavaScript file handling app logic  
-├── break-sound.mp3   # Audio file for break start (add your file here)  
-├── study-sound.mp3   # Audio file for study start (add your file here)  
+├── break-sound.mp3   # Audio file for break start   
+├── study-sound.mp3   # Audio file for session start
+
+## Technologies Used
+* HTML: For the app's structure and layout.
+* CSS: For styling and visual enhancements.
+* JavaScript: For dynamic functionality, including session handling, drag-and-drop, and timers.
+
+## User Testing
+To ensure usability, the app was tested by friends over a one-week period. Key feedback included:
+
+* Drag-and-drop functionality being intuitive and helpful for reordering sessions.
+* Audio alerts improving focus during study sessions.
+* Suggestions to refine the timer display and improve UI aesthetics.
+
+These insights were incorporated into the current version, enhancing user engagement and satisfaction.
+
+## Future Features
+* Add a polished UI with CSS for a better user experience.
+* Enable session progress tracking or logging.
+* Include an option to save and load session plans for recurring study schedules.
+
+
